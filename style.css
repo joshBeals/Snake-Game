@@ -1,0 +1,22 @@
+#container{
+    text-align: center;
+}
+
+#board{
+    border: 3px solid black;
+}
+
+.scoreArea{
+    font-family: "Permanenent Marker", cursive;
+    font-size: 50px;
+}
+
+#reset{
+    font-family: "Permanenent Marker", cursive;
+    font-size: 22px;
+    width: 100px;
+    height: 50px;
+    border: 4px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+}
